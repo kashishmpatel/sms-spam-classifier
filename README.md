@@ -1,12 +1,17 @@
 # SMS-Spam-Classifier
 This project predict about whether sms is spam or not spam. This model is build on various python libraries like pandas, numpy, matplotlib, seaborn, scikit-learn.
+
 Working demo of website:
 Link: https://drive.google.com/file/d/1NmCCVOHLnZ55WH5oybzzhv-i53B1E2Co/view?usp=drive_link
+
+
 Table of Contents
 Introduction
 Features
 Installation
 Usage
+
+
 Introduction
 The SMS Spam Classifier is a machine learning project that classifies SMS messages as either "spam" or "ham" (non-spam). The model is trained using a dataset of labeled SMS messages and leverages the Term Frequency-Inverse Document Frequency (TF-IDF) vectorizer to transform the text data into numerical features. The project employs various Python libraries for data processing, visualization, natural language processing, and deployment using Streamlit.
 
