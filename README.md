@@ -11,19 +11,6 @@ Usage
 # Introduction
 The SMS Spam Classifier is a machine learning project that classifies SMS messages as either "spam" or "ham" (non-spam). The model is trained using a dataset of labeled SMS messages and leverages the Term Frequency-Inverse Document Frequency (TF-IDF) vectorizer to transform the text data into numerical features. The project employs various Python libraries for data processing, visualization, natural language processing, and deployment using Streamlit.
 
-# Installation
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-git clone https://github.com/Kathanpatel403/Sms-Spam-Classifier.git
-cd Sms-Spam-Classifier
-
-2.Create a virtual environment:
-python -m venv env
-env\Scripts\activate
-
-3.Install the required dependencies:
-pip install -r requirements.txt
 
 # Usage
 To start the Streamlit web application, run the following command:
