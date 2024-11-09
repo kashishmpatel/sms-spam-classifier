@@ -2,7 +2,7 @@
 Welcome to the SMS Spam Classifier project! This project is designed to efficiently predict whether an SMS message is spam or not using Python and its powerful libraries.
 
 # Working demo of website:
-Link: "C:\Users\kashi\Videos\Captures\Sms-Spam-Classification – app.py 2024-11-09 22-46-18.mp4"
+Link: C:\Users\kashi\Videos\Captures\Sms-Spam-Classification – app.py 2024-11-09 22-46-18.mp4
 
 # Table of Contents
 Introduction
